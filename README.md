@@ -8,15 +8,3 @@
 [Twitter](https://twitter.com/Polartwter)
 
 Discord: notpolak
-
-"I am batman
-      _..--""````""--.._
-    .'       |\/|       '.
-   /    /`._ |  | _.'\    \
-  ;    /              \    |
-  |   /                \   |
-  ;  / .-.          .-. \  ;
-   \ |/   \.-.  .-./   \| /
-    '._       \/       _.'
-jgs    ''--..____..--''
-"
