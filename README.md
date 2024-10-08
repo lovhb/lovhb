@@ -4,6 +4,7 @@
 
 ### My socials / reach me:
 Discord: @notpolak
+
 [Twitter](https://twitter.com/Polartwter)
 
 
