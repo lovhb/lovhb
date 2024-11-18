@@ -27,3 +27,8 @@ _Custom mod for the game VTOL VR created from BCAT._
 - **Discord:** `@notpolak`
 
 ---
+
+## 🛠️ Most Used Programs  
+- **🖥️ Code Editors:** Rider, PyCharm, PhpStorm, VSCode
+- **🎨 Design & Modeling:** Blender
+- **🎮 Game Development:** Godot Engine
