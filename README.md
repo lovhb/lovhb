@@ -1,10 +1,30 @@
-## About me
-- 👨‍💻 Studying computer science / programming
-- 🗿 Currently learning HTML, CSS, JS and Python
+## About Me
+- 👨‍💻 **Studying:** Computer Science / Programming  
+- 🌱 **Currently Learning:** HTML, CSS, JavaScript, Python  
+- 🗃️ **What you'll find here:** Most of my personal and collaborative projects  
 
-### My socials / reach me:
-Discord: @notpolak
+---
 
-[Twitter](https://twitter.com/Polartwter)
+## 🛠️ Highlights  
 
+---
 
+### 🛩️ **VTOL VR JAS-39 Gripen Mod**  
+_Custom mod for the game VTOL VR created from BCAT._
+- **Features:** Accurate elements, combined radar, fun to fly
+- **Tech Used:** Unity, Blender, HarmonyX, C#
+- 📸 Screenshot:
+  ![JAS-39 Gripen Mod Screenshot]([https://via.placeholder.com/600x300](https://i.imgur.com/h0yoFRU.png))
+
+---
+
+## 🎯 Goals  
+- 🚀 Contribute to **open-source projects**
+- 📚 Improve my skills in game dev, frontend and backend development
+
+---
+
+## 🌐 Find Me  
+- **Discord:** `@notpolak`
+
+---
