@@ -7,8 +7,6 @@
 
 ## 🛠️ Highlights  
 
----
-
 ### 🛩️ **VTOL VR JAS-39 Gripen Mod**  
 _Custom mod for the game VTOL VR created from BCAT._
 - **Features:** Accurate elements, combined radar, fun to fly
